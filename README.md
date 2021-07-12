@@ -7,3 +7,7 @@ I'm just linking useful stuff that I think I'll forget about here.
 Calibrating LSM6DSOX:
   - Adafruit_SensorLab -> gyro_rate_simplecal (run)
   - Adafruit_SensorCalibration -> read (run), write (run), read (run)
+
+How to calculate absolute orientation from accelerometer data; Heck, I had no idea
+it was so easy!
+- https://theccontinuum.com/2012/09/24/arduino-imu-pitch-roll-from-accelerometer/#docs
