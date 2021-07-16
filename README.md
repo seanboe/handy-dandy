@@ -11,3 +11,4 @@ Calibrating LSM6DSOX:
 How to calculate absolute orientation from accelerometer data; Heck, I had no idea
 it was so easy!
 - https://theccontinuum.com/2012/09/24/arduino-imu-pitch-roll-from-accelerometer/#docs
+- NXP motionsense study: https://www.nxp.com/files-static/sensors/doc/app_note/AN3461.pdf
